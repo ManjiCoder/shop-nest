@@ -1,0 +1,14 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* body {
+  background: linear-gradient(to left bottom, #d9b0e5, #381b48)
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
